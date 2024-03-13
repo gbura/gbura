@@ -3,7 +3,7 @@
 As a front-end developer, I have a strong theoretical background and practical experience from various projects. I work with HTML, CSS, and JavaScript, using tools like TailwindCSS, Bootstrap, GIT, Vite and TypeScript. Currently, I'm enhancing my skills in Vue.js. I specialize in creating visually appealing and responsive interfaces. I'm constantly striving to improve and quickly adapt to new skills and technologies.
 
 Skills: VUE.JS / JAVASCRIPT / TYPESCRIPT / TAILWINDCSS / BOOTSTRAP / SCSS / CSS / HTML / VITE / GIT
-[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,tailwind,bootstrap,sass,css,html,vite,git&perline=3)]
+[![My Skills](https://skillicons.dev/icons?i=vue,js,ts,tailwind,bootstrap,sass,css,html,vite,git&perline=4)]
 
 - 🌱 I’m currently learning Vue.js 
 
