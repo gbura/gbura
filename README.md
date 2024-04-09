@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Frontend Developer
 ------------------
 
-As a front-end developer, I have a strong theoretical background and practical experience from various projects. I work with HTML, CSS, and JavaScript, using tools like TailwindCSS, Bootstrap, GIT, Vite and TypeScript. Currently, I'm enhancing my skills in Vue.js. I specialize in creating visually appealing and responsive interfaces. I'm constantly striving to improve and quickly adapt to new skills and technologies.
+As a front-end developer, I have a strong theoretical background and practical experience from various projects. I work with HTML, CSS, and JavaScript, using tools like TailwindCSS, Bootstrap, GIT, Vite, TypeScript and Pinia. Currently, I'm enhancing my skills in Vue.js. I specialize in creating visually appealing and responsive interfaces. I'm constantly striving to improve and quickly adapt to new skills and technologies.
 
 * 🌍  I'm based in Warsaw
 * 🧠  I'm learning Vue.js
