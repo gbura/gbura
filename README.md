@@ -6,7 +6,7 @@ Frontend Developer
 
 As a front-end developer, I have a strong theoretical background and practical experience from various projects. I mostly coding in Vue.js. Currently I am learning Nuxt.js. I also work with HTML, CSS, and JavaScript/TypeScript, using tools like Pinia, GIT, Vite, TailwindCSS and Bootstrap. I specialize in creating visually appealing and responsive interfaces. I'm constantly striving to improve and quickly adapt to new skills and technologies.
 
-* 🖥️  Currently working on: [itotyle.pl](itotyle.pl)
+* 🖥️  Currently working on: ([itotyle.pl](https://github.com/Bartholomeas/work-scraper))
 * 🌍  I'm based in Warsaw
 * 🧠  I'm still learning Vue.js and Nuxt.js
 
