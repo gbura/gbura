@@ -4,14 +4,14 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Frontend Developer
 ------------------
 
-As a front-end developer, I have a strong theoretical background and practical experience from various projects. I mostly coding in Vue.js. Currently I am learning Nuxt.js. I also work with HTML, CSS, and JavaScript/TypeScript, using tools like Pinia, GIT, Vite, TailwindCSS and Bootstrap. I specialize in creating visually appealing and responsive interfaces. I'm constantly striving to improve and quickly adapt to new skills and technologies.
+As a front-end developer, I have a strong theoretical background and practical experience from various projects. I mostly coding in Vue.js and Nuxt.js. Currently I am working in Next.js. I also work with HTML, CSS, and JavaScript/TypeScript, using tools like Pinia, GIT, Vite, TailwindCSS and Bootstrap. I specialize in creating visually appealing and responsive interfaces. I'm constantly striving to improve and quickly adapt to new skills and technologies.
 
-* 🖥️  Currently working on: [itotyle.pl](https://github.com/Bartholomeas/work-scraper)
 * 🌍  I'm based in Warsaw
-* 🧠  I'm still learning Vue.js and Nuxt.js
 
 ### Skills
 
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,6 +23,8 @@ As a front-end developer, I have a strong theoretical background and practical e
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
