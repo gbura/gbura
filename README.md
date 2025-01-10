@@ -4,7 +4,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Frontend Developer
 ------------------
 
-I am a frontend developer with a solid theoretical knowledge and practical experience gained through personal and professional projects. My expertise primarily lies in coding with Vue.js, and I am currently expanding my skills by learning Nuxt.js. In my current role as a frontend developer, I specialize in building e-commerce websites using Next.js and React.
+I am a frontend developer with a solid theoretical knowledge and practical experience gained through personal and professional projects. My expertise primarily lies in coding with Vue.js and Nuxt.js. In my previous role as a frontend developer, I specialized in building e-commerce websites using Next.js and React.
 
 * 🌍  I'm based in Warsaw
 
